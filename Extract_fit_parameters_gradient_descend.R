@@ -1,5 +1,4 @@
 ## Plot parameters gradient descend across subjects and within subjects to compare across ROIs
-## Plot correlation values as well (to see differences across subjects)
 
 rm(list=ls())
 ## Add packages -----------------------
